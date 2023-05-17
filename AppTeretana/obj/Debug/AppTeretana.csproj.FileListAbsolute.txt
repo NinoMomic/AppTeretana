@@ -1,0 +1,11 @@
+C:\Users\ucenik\source\repos\AppTeretana\bin\Debug\AppTeretana.exe.config
+C:\Users\ucenik\source\repos\AppTeretana\bin\Debug\AppTeretana.exe
+C:\Users\ucenik\source\repos\AppTeretana\bin\Debug\AppTeretana.pdb
+C:\Users\ucenik\source\repos\AppTeretana\obj\Debug\AppTeretana.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\AppTeretana\obj\Debug\AppTeretana.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\AppTeretana\obj\Debug\AppTeretana.Form1.resources
+C:\Users\ucenik\source\repos\AppTeretana\obj\Debug\AppTeretana.Properties.Resources.resources
+C:\Users\ucenik\source\repos\AppTeretana\obj\Debug\AppTeretana.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\AppTeretana\obj\Debug\AppTeretana.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\AppTeretana\obj\Debug\AppTeretana.exe
+C:\Users\ucenik\source\repos\AppTeretana\obj\Debug\AppTeretana.pdb
