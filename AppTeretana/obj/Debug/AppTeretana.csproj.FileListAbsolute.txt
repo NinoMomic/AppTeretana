@@ -9,3 +9,5 @@ C:\Users\ucenik\source\repos\AppTeretana\obj\Debug\AppTeretana.csproj.GenerateRe
 C:\Users\ucenik\source\repos\AppTeretana\obj\Debug\AppTeretana.csproj.CoreCompileInputs.cache
 C:\Users\ucenik\source\repos\AppTeretana\obj\Debug\AppTeretana.exe
 C:\Users\ucenik\source\repos\AppTeretana\obj\Debug\AppTeretana.pdb
+C:\Users\ucenik\source\repos\AppTeretana\obj\Debug\AppTeretana.BMIkalkulator.resources
+C:\Users\ucenik\source\repos\AppTeretana\obj\Debug\AppTeretana.Uclanivanje.resources
